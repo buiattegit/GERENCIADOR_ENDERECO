@@ -1,0 +1,5 @@
+worker.js
+wrangler.jsonc
+divergencias.json
+.git/**
+node_modules/**
