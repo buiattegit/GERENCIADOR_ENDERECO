@@ -976,5 +976,16 @@
     "status": "CONFORME",
     "id": "6078e0cc-e656-4681-aa9e-849ba55d2136",
     "created_at": "2026-11-19T14:03:56.603Z"
+  },
+  {
+    "address": "R11068011",
+    "operator": "Leandro",
+    "wms": "VAZIO",
+    "physical": "OCUPADO",
+    "notes": "541760EY236B8153200013",
+    "kind": "DIVERGÊNCIA",
+    "status": "ABERTA",
+    "id": "be445bd1-3702-454f-ae15-4a54597ea6c9",
+    "created_at": "2026-11-19T14:04:46.452Z"
   }
 ]
