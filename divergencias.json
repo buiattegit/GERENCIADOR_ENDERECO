@@ -394,9 +394,11 @@
     "physical": "OCUPADO",
     "notes": "Tem material",
     "kind": "DIVERGÊNCIA",
-    "status": "ABERTA",
+    "status": "RESOLVIDA",
     "id": "cb9fa0fe-d88b-41aa-81c2-c0101022ed53",
-    "created_at": "2026-11-19T12:44:03.644Z"
+    "created_at": "2026-11-19T12:44:03.644Z",
+    "analyst": "aline",
+    "resolved_at": "2026-11-19T19:00:04.129Z"
   },
   {
     "address": "R10121011",
