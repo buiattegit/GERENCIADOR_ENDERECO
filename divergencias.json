@@ -618,5 +618,16 @@
     "status": "CONFORME",
     "id": "12744b88-71c2-4c12-9340-0709e344da9e",
     "created_at": "2026-11-19T12:59:40.913Z"
+  },
+  {
+    "address": "R10144011",
+    "operator": "Leandro",
+    "wms": "VAZIO",
+    "physical": "VAZIO",
+    "notes": "",
+    "kind": "CONFORME",
+    "status": "CONFORME",
+    "id": "8d23a879-603d-4183-9e99-43e41fbfa800",
+    "created_at": "2026-11-19T13:00:25.164Z"
   }
 ]
