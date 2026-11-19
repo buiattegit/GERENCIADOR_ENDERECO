@@ -32,9 +32,11 @@
     "physical": "OCUPADO",
     "notes": "541711001X9B8033500289\n541711001X9B8033500285\nEste maderial",
     "kind": "DIVERGÊNCIA",
-    "status": "ABERTA",
+    "status": "RESOLVIDA",
     "id": "aa34f02e-f4a2-40ee-bed7-0d10a03e2c08",
-    "created_at": "2026-11-19T11:46:07.585Z"
+    "created_at": "2026-11-19T11:46:07.585Z",
+    "analyst": "aline",
+    "resolved_at": "2026-11-19T13:15:19.941Z"
   },
   {
     "address": "R10043011",
