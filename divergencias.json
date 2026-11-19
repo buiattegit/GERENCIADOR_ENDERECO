@@ -1207,5 +1207,16 @@
     "status": "ABERTA",
     "id": "37c38578-ed72-4592-92ea-78b86749a5fb",
     "created_at": "2026-11-19T14:19:35.954Z"
+  },
+  {
+    "address": "AV0090011",
+    "operator": "Caroline Cardoso De Lima",
+    "wms": "VAZIO",
+    "physical": "OCUPADO",
+    "notes": "TESTE",
+    "kind": "DIVERGÊNCIA",
+    "status": "ABERTA",
+    "id": "1edae25e-3371-49b1-8eb5-2beba64545e6",
+    "created_at": "2026-11-19T17:47:47.587Z"
   }
 ]
