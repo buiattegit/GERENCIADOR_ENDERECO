@@ -998,5 +998,16 @@
     "status": "ABERTA",
     "id": "8057649a-8e7e-4c52-8f62-4d91e7d70616",
     "created_at": "2026-11-19T14:06:15.795Z"
+  },
+  {
+    "address": "R11054011",
+    "operator": "Leandro",
+    "wms": "OCUPADO",
+    "physical": "OCUPADO",
+    "notes": "541711001X9B8033500066",
+    "kind": "CONFORME",
+    "status": "CONFORME",
+    "id": "9970bd14-28bd-473e-a9b9-867cb7731acf",
+    "created_at": "2026-11-19T14:07:29.453Z"
   }
 ]
