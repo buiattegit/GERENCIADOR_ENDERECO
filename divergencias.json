@@ -337,9 +337,11 @@
     "physical": "OCUPADO",
     "notes": "Tem material",
     "kind": "DIVERGÊNCIA",
-    "status": "ABERTA",
+    "status": "RESOLVIDA",
     "id": "257d9bee-7f02-4af5-b06a-47a00bb13363",
-    "created_at": "2026-11-19T12:41:21.485Z"
+    "created_at": "2026-11-19T12:41:21.485Z",
+    "analyst": "aline",
+    "resolved_at": "2026-11-19T18:59:59.835Z"
   },
   {
     "address": "R10115011",
