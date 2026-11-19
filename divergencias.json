@@ -6,9 +6,11 @@
     "physical": "VAZIO",
     "notes": "",
     "kind": "DIVERGÊNCIA",
-    "status": "ABERTA",
+    "status": "RESOLVIDA",
     "id": "6e58c367-02a1-4720-8194-fa1adc77aad5",
-    "created_at": "2026-11-19T11:42:56.261Z"
+    "created_at": "2026-11-19T11:42:56.261Z",
+    "analyst": "aline",
+    "resolved_at": "2026-11-19T12:47:59.794Z"
   },
   {
     "address": "R10041011",
