@@ -1523,5 +1523,16 @@
     "status": "CONFORME",
     "id": "7ca234a0-883f-49f1-bf59-828b2739dace",
     "created_at": "2026-11-22T18:14:25.687Z"
+  },
+  {
+    "address": "R01059031",
+    "operator": "Ryan",
+    "wms": "OCUPADO",
+    "physical": "OCUPADO",
+    "notes": "",
+    "kind": "CONFORME",
+    "status": "CONFORME",
+    "id": "d1519d9b-758e-4a3a-a270-7f3771e5d3c3",
+    "created_at": "2026-11-22T18:14:37.326Z"
   }
 ]
