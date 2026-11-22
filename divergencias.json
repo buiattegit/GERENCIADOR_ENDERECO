@@ -1226,5 +1226,16 @@
     "created_at": "2026-11-19T17:47:47.587Z",
     "analyst": "Caroline Cardoso De Lima",
     "resolved_at": "2026-11-19T17:48:11.382Z"
+  },
+  {
+    "address": "R01054011",
+    "operator": "RUAN FERRAIS",
+    "wms": "OCUPADO",
+    "physical": "OCUPADO",
+    "notes": "",
+    "kind": "CONFORME",
+    "status": "CONFORME",
+    "id": "8d539fb4-05e3-4dee-ac94-ba587e088bb9",
+    "created_at": "2026-11-22T18:09:38.316Z"
   }
 ]
