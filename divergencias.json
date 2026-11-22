@@ -1534,5 +1534,16 @@
     "status": "CONFORME",
     "id": "d1519d9b-758e-4a3a-a270-7f3771e5d3c3",
     "created_at": "2026-11-22T18:14:37.326Z"
+  },
+  {
+    "address": "R01058021",
+    "operator": "RUAN FERRAIS",
+    "wms": "OCUPADO",
+    "physical": "OCUPADO",
+    "notes": "",
+    "kind": "CONFORME",
+    "status": "CONFORME",
+    "id": "48157034-ad39-4257-8548-45b454649c45",
+    "created_at": "2026-11-22T18:14:50.572Z"
   }
 ]
