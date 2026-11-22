@@ -1314,5 +1314,16 @@
     "status": "CONFORME",
     "id": "5005de92-67cd-4127-8d32-b16b2cf3f693",
     "created_at": "2026-11-22T18:11:13.806Z"
+  },
+  {
+    "address": "R01055041",
+    "operator": "Ryan",
+    "wms": "VAZIO",
+    "physical": "OCUPADO",
+    "notes": "",
+    "kind": "DIVERGÊNCIA",
+    "status": "ABERTA",
+    "id": "1d07acc6-9a27-4da2-98d6-6e85cad0697c",
+    "created_at": "2026-11-22T18:11:17.922Z"
   }
 ]
